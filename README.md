@@ -1,9 +1,5 @@
 # ✨ WordToWorld v1.0.0
 
-<p align="center">
-  <img src="logo.png" width="350" alt="WordToWorld Logo">
-</p>
-
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.4%20--%201.26%2B-brightgreen.svg)]()
 [![Java](https://img.shields.io/badge/Java-21-blue.svg)]()
 [![Developer](https://img.shields.io/badge/Developer-kayapater-gold.svg)]()
