@@ -65,7 +65,8 @@ Turn your words into **3D Block Structures** in Minecraft using custom Anvils!
 
 ## 📥 Installation Guide / Kurulum Rehberi
 
-1. Download [`WordToWorld-1.0.0.jar`](WordToWorld-1.0.0.jar).
+1. Download the latest version of WordToWorld from [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/wordtoworld).  
+   *(WordToWorld'ün en son sürümünü [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/wordtoworld) üzerinden indirin.)*
 2. Drop the `.jar` file into your server's `plugins/` directory.
 3. Start or reload your Paper / Spigot server (1.20.4+ / 1.21+ / 26.2+).
 4. Run `/wtw give` to receive the special WordToWorld Anvil!
