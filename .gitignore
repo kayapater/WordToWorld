@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

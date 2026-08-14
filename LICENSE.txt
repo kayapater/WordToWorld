@@ -1,0 +1,15 @@
+==============================================================================
+                      WordToWorld Minecraft Plugin License
+                      Copyright (c) 2026 kayapater. All Rights Reserved.
+==============================================================================
+
+Developer / Author: kayapater
+Plugin Name: WordToWorld v1.0.0
+
+This plugin is created and developed by kayapater.
+Permission is hereby granted for personal and server usage.
+
+The developer reserves all publication rights. This software may be 
+released as open-source by the author in future updates.
+
+==============================================================================
